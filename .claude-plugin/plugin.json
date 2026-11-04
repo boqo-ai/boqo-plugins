@@ -1,0 +1,28 @@
+{
+  "name": "boqo",
+  "version": "1.0.0",
+  "description": "boqo, the autonomous AI agent for social media, inside Claude Code: find videos worth posting, turn them into captioned vertical clips, schedule or auto-post them to TikTok, Instagram and YouTube, watch Twitch and Kick streams for moments, and manage projects, brands and connected accounts.",
+  "author": {
+    "name": "boqo",
+    "url": "https://boqo.ai"
+  },
+  "homepage": "https://boqo.ai",
+  "keywords": [
+    "social-media",
+    "ai-agent",
+    "mcp",
+    "short-form-video",
+    "clips",
+    "captions",
+    "tiktok",
+    "instagram-reels",
+    "youtube-shorts",
+    "scheduling",
+    "auto-posting",
+    "creators",
+    "brands"
+  ],
+  "privacyPolicyUrl": "https://app.boqo.ai/privacy",
+  "termsOfServiceUrl": "https://app.boqo.ai/terms",
+  "license": "MIT"
+}

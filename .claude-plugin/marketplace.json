@@ -1,0 +1,15 @@
+{
+  "name": "boqo-plugins",
+  "description": "boqo plugins for Claude Code: an autonomous AI agent for social media.",
+  "owner": {
+    "name": "boqo",
+    "url": "https://boqo.ai"
+  },
+  "plugins": [
+    {
+      "name": "boqo",
+      "source": "./",
+      "description": "Autonomous AI agent for social media: find videos, make captioned vertical clips, schedule and auto-post to TikTok, Instagram and YouTube, and watch live streams for moments."
+    }
+  ]
+}

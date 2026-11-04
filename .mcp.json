@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "boqo": {
+      "type": "http",
+      "url": "https://mcp.boqo.ai/mcp"
+    }
+  }
+}
